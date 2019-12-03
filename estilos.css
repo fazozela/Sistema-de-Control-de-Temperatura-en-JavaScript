@@ -1,0 +1,41 @@
+.section {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.foco {
+  width: 110px;
+  position: relative;
+}
+
+.fire {
+  width: 70px;
+}
+
+.ventilador {
+  width: 150px;
+}
+
+.fan {
+  width: 150px;
+}
+
+.fire-red {
+  width: 200px;
+}
+
+.res0,
+.res1,
+.res2 {
+  text-align: justify;
+  font-weight: bold;
+}
+
+body {
+  background: rgb(189, 189, 189);
+}
+
+.section {
+  background: white;
+}
